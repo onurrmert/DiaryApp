@@ -1,5 +1,5 @@
 # DiaryApp
-A log application, this application is the basis of the database design of an offline application and all CRUD (cretae, read, update, delete) operations are present
+A log application, this application is the basis of the database design of an offline application. <br> All CRUD (cretae, read, update, delete) operations are present. <br> -SqliteOpenHelper <br> -RecyclerView
 
 
 <br><br>
